@@ -6,7 +6,7 @@ Jeg ❤️ å **inspirere og utdanne** folk i IT.
 
 Jeg lager detaljerte veiledninger med fokus på kjente IT-bransjestandarder og deler mine beste fremgangsmåter for å hjelpe deg med å komme deg videre i karrieren. Sjekk ut YouTube-kanalen min og 🚀 lær Linux og Windows
 
-## 🎬 YouTube-kanalen "The IT Community"
+## 🎬 YouTube-kanalen "Daleng IT Community"
 
 Dette er det rette stedet for deg å hoppe inn i IT-området og utvikle en vellykket karriere ved å lære de riktige ferdighetene og få verdifulle IT-sertifiseringer.
 
